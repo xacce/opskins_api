@@ -1,0 +1,5 @@
+*.pyc
+.idea/
+build/
+dist/
+opskins_api.egg-info/

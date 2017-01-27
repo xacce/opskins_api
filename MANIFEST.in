@@ -1,0 +1,4 @@
+include LICENSE
+include readme.md
+recursive-include opskins_api *.*
+recursive-include opskins_api *
